@@ -16,7 +16,8 @@ public class Test2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("this is a test");
+        System.out.println("this is a test\n");
+        System.out.println("this is another test\n");
     }
     
 }
