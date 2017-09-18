@@ -18,6 +18,7 @@ public class Test2 {
         // TODO code application logic here
         System.out.println("this is a test\n");
         System.out.println("this is another test\n");
+        System.out.println("this is a third test\n");
     }
     
 }
